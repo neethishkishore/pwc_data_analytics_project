@@ -54,3 +54,27 @@ Aimed to provide a comprehensive view of customer churn within a business. By an
 
 8. Churn by Payment Method
 
+<p align="center">
+<h3 align="center">Diversity & Inclusion</h3>
+</p>
+
+<p align="center">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMGQzZTEwNTctM2E4Zi00YzBkLTk5MzYtNWQwNzc5MWY1ZGUyIiwidCI6ImMyOTMyNDU1LWIzZTctNDJhYi1hY2ExLWZhNTNmMjcxN2EyNSJ9">Link to Interactive Dashboard</a>
+</p>
+
+<img src="Diversity & Inclusion 1.png">
+
+<img src="Diversity & Inclusion 2.png">
+
+Aimed to provide a comprehensive view of customer churn within a business. By analyzing key factors such as demographics, customer account information, subscribed services, and payment methods, the project sought to identify patterns and insights that could contribute to a proactive customer retention strategy.
+
+1. Demographics
+
+2. Customer Account Information
+
+3. Services Subscribed
+
+4. Churn by Type of Internet Service
+
+5. Customers by Internet Service
+
