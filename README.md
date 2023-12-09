@@ -66,15 +66,17 @@ Aimed to provide a comprehensive view of customer churn within a business. By an
 
 <img src="Diversity & Inclusion 2.png">
 
-Aimed to provide a comprehensive view of customer churn within a business. By analyzing key factors such as demographics, customer account information, subscribed services, and payment methods, the project sought to identify patterns and insights that could contribute to a proactive customer retention strategy.
+Focused on the critical aspects of Diversity & Inclusion within the organization. By examining key performance indicators (KPIs) related to hiring, promotions, turnover rates, performance ratings, executive gender balance, and age group distribution, the project aims to provide actionable insights to enhance workplace diversity and inclusivity.
 
-1. Demographics
+1. Hiring
 
-2. Customer Account Information
+2. Promotions
 
-3. Services Subscribed
+3. Turnover Rate
 
-4. Churn by Type of Internet Service
+4. Performance Rating
 
-5. Customers by Internet Service
+5. Executive Gender Balance
+
+6. Age Group Distribution
 
